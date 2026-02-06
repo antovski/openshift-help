@@ -1,3 +1,4 @@
+```
 OpenShift CLI (oc) administrator commands
 oc adm build-chain
 
@@ -670,3 +671,4 @@ Example usage
 oc adm wait-for-stable-cluster
 
 wait for the platform operators to become stable
+```
