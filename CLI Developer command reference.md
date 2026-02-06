@@ -1,4 +1,4 @@
-
+```
 OpenShift CLI developer command reference
 
 This reference provides descriptions and example commands for OpenShift CLI (oc) developer commands. For administrator commands, see the OpenShift CLI administrator command reference.
@@ -2440,4 +2440,4 @@ Example usage
 
   # Display the currently authenticated user
   oc whoami
-
+```
